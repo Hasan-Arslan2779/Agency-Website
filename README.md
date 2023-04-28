@@ -15,7 +15,7 @@
    
 
     <h2>Gif</h2>
-    <img src="/img/homepage.png" >
+    <img src="https://github.com/Hasan-Arslan2779/Agency-Website/blob/master/Agency.gif" >
    
 
  
